@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-color: #333;
+    background-color: #3a1818;
     color: #fff;
     padding: 40px 0;
     text-align: center;
@@ -50,4 +50,7 @@ body {
 }
 #about {
     background-color: #caf1c4;
+}
+.navbar {
+    text-align: center;
 }
