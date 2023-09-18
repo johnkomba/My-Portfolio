@@ -35,7 +35,7 @@ body {
 
 .section {
     padding: 60px 0;
-    text-align: center;
+    text-align: left;
 }
 
 .footer {
@@ -43,4 +43,8 @@ body {
     padding: 20px 0;
     text-align: center;
 }
-#
+#Services{
+    text-align: left;
+    background-color:rgb(228, 228, 166) ;
+    padding: 10px;
+}
